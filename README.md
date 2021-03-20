@@ -2,7 +2,7 @@
 
 ![Funny commit](https://i.imgur.com/cyV9LPo.png)
 
-Srouce: https://imgur.com/a/ynwaaJW
+Source: https://imgur.com/a/ynwaaJW
 
 Complementary: http://www.commitlogsfromlastnight.com/
 
