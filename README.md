@@ -1,4 +1,4 @@
-##That one time I was famous
+## That one time I was famous
 
 ![Funny commit](https://i.imgur.com/cyV9LPo.png)
 
